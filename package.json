@@ -1,13 +1,13 @@
 {
   "name": "web-crawler-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple web crawler using nodejs",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "ebraheem said",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.2",
