@@ -1,0 +1,18 @@
+{
+  "name": "web-crawler-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
